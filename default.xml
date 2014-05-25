@@ -2,11 +2,11 @@
  <manifest>
      <remote name="oni_vicon" fetch="https://github.com/jan-issac"/>
      <default revision="refs/heads/master" remote="oni_vicon" sync-j="1"/>
-     <project name="oni_vicon_recorder" remote="oni_vicon" path="oni_vicon_recorder">
-     <project name="oni_vicon_calibration" remote="oni_vicon" path="oni_vicon_calibration">
-     <project name="oni_vicon_playback" remote="oni_vicon" path="oni_vicon_playback">
-     <project name="actionlib_macros" remote="oni_vicon" path="actionlib_macros">
-     <project name="oni_vicon_common" remote="oni_vicon" path="oni_vicon_common">
-     <project name="rqt_oni_vicon_recorder" remote="oni_vicon" path="rqt_oni_vicon_recorder">
-     <project name="rqt_oni_vicon_playback" remote="oni_vicon" path="rqt_oni_vicon_playback">
+     <project name="oni_vicon_recorder" remote="oni_vicon" path="oni_vicon_recorder"/>
+     <project name="oni_vicon_calibration" remote="oni_vicon" path="oni_vicon_calibration"/>
+     <project name="oni_vicon_playback" remote="oni_vicon" path="oni_vicon_playback"/>
+     <project name="actionlib_macros" remote="oni_vicon" path="actionlib_macros"/>
+     <project name="oni_vicon_common" remote="oni_vicon" path="oni_vicon_common"/>
+     <project name="rqt_oni_vicon_recorder" remote="oni_vicon" path="rqt_oni_vicon_recorder"/>
+     <project name="rqt_oni_vicon_playback" remote="oni_vicon" path="rqt_oni_vicon_playback"/>
  </manifest>
